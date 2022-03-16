@@ -1,8 +1,8 @@
 static const Block blocks[] = {
 	/*Icon*/		/*Command*/					/*Update Interval*/	/*Update Signal*/
 	{" KERNEL:", 	"kernel",					0,					0},
-	{" UPTIME:", 	"upt",                      0,					0},
-	{" MEMORY:", 	"memory",					4,					0},
+	{" UPTIME:", 	"upt",                      5,					0},
+	{" MEMORY:", 	"memory",					5,					0},
 	{" ",	  		"volume",					0,					10},
 	{" ",			"battery",					2,					0},
 	{" CPU:",		"cpu",						5,					0},
