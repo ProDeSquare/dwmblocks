@@ -1,6 +1,6 @@
 static const Block blocks[] = {
     /* Crypto */
-	{"",           "price btc Bitcoin BTC: usd",	0,					0},
+	// {"",           "price btc Bitcoin BTC: usd",	0,					0},
 	// {"",           "price eth Ethereum ETH: usd",	0,					0},
 	// {"",           "price xmr Monero XMR: usd",     0,					0},
 
