@@ -5,6 +5,7 @@ static const Block blocks[] = {
 	// {"",           "price xmr Monero XMR: usd",     0,					0},
 
 	/*Icon*/		/*Command*/					/*Update Interval*/	/*Update Signal*/
+	{"",            "music",                    0,					17},
 	{"KER:",        "kernel",					0,					0},
 	{"UPT:",        "upt",                      5,					0},
 	{"MEM:",        "memory",					5,					0},
